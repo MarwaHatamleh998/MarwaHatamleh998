@@ -28,4 +28,4 @@ JavaScript | TypeScript | HTML | CSS | React | Next.js | Tailwind CSS | Node.js 
 ---
 
 ## 🌐 Connect with Me
-- GitHub: [Your github Profile]([Github_URL](https://github.com/C14-MarwahHatamleh))
+- GitHub: ([Github_URL](https://github.com/C14-MarwahHatamleh))
