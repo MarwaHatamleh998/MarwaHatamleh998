@@ -7,7 +7,7 @@ I specialize in **JavaScript, HTML, CSS, React, Next.js, Node.js**, and database
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: React, Next.js, Node.js, MongoDB, PostgreSQL, Docker  
+- 🔭 I’m currently working on: React, Next.js, Node.js, MongoDB, PostgreSQL, Docker(Redis) 
 - 🌱 I’ve finished learning: NestJS, E-commerce System, Sandbox API for test payment processing  
 - 📚 I’m currently learning: C# and ASP.NET  
 - 🤝 I’m open for: New job opportunities  
