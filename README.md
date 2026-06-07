@@ -12,7 +12,7 @@ I specialize in **JavaScript, HTML, CSS, React, Next.js, Node.js**, and database
 - 📚 I’m currently learning: C# and ASP.NET  
 - 🤝 I’m open for: New job opportunities  
 - 📫 Reach me: **marwahatamleh98@gmail.com**  
-- 📄 Resume: ([LINK_TO_YOUR_RESUME](https://drive.google.com/file/d/1zSflwMTZJOhVraOi8pUn3wsTMdjV5lkm/view?usp=sharing))
+- 📄 Resume: ([LINK_TO_MY_RESUME](https://drive.google.com/file/d/1zSflwMTZJOhVraOi8pUn3wsTMdjV5lkm/view?usp=sharing))
 
 ---
 
